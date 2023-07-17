@@ -15,5 +15,5 @@
 - very basic knowledge of javascript (you should have that from codecademy / freecodecamp❗️)
 - VS code installed on your computer
 
-## ➡️ Next steps:
+## ➡️Next steps:
 Open up `part1.html` and `part1.md` side by side to start coding
