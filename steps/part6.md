@@ -34,7 +34,7 @@ this.physics.add.collider(player, platforms);
  ![part six scene example](assets/part6.2.png)
  
 ## ➡️ Next steps:
-Open up `part7.html` and `part7.md` side by side to start coding
+Open up [part7.html](/part7.html) and [part7.md](part7.md) side by side to start coding
 
 
 

@@ -18,4 +18,4 @@ To open this file properly press shift + command + V! (or right click on the fil
 - VS code installed on your computer
 
 ## ➡️Next steps:
-Open up `part1.html` and `part1.md` side by side to start coding
+Open up [part1.html](/part1.html) and [part1.md](/part1.md) side by side to start coding (click links to open)

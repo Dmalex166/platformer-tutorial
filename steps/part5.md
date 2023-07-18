@@ -79,7 +79,7 @@ This is our standard run-cycle and we repeat it for running in the opposite dire
 In Phaser 3 the Animation Manager is a global system. Animations created within it are globally available to all Game Objects. They share the base animation data while managing their own timelines. This allows you to define a single animation once and apply it to as many Game Objects as you require. This is different to Phaser 2 where animations belonged specifically to the Game Objects they were created on.
 
 ## ➡️ Next steps:
-Open up `part6.html` and `part6.md` side by side to start coding
+Open up [part6.html](/part6.html) and [part6.md](part6.md) side by side to start coding
 
 
 

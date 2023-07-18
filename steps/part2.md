@@ -50,7 +50,7 @@ function create ()
 ![part 2 example image](/assets/part2.png)
 
 ## ➡️ Next steps:
-Open up `part3.html` and `part3.md` side by side to start coding
+Open up [part3.html](/part3.html) and [part3.md](part3.md) side by side to start coding
 
 
 
