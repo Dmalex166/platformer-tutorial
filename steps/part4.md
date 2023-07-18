@@ -50,7 +50,7 @@ We don't need to scale these platforms as they are the right size already
 In the next tutorial we'll add our player!
 
 ## ➡️ Next steps:
-Open up `part5.html` and `part5.md` side by side to start coding
+Open up [part5.html](/part5.html) and [part5.md](part5.md) side by side to start coding
 
 
 

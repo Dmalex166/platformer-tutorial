@@ -56,7 +56,7 @@ var config = {
 
 
 ## ➡️ Next steps:
-Open up `part4.html` and `part4.md` side by side to start coding
+Open up [part4.html](/part4.html) and [part4.md](part4.md) side by side to start coding
 
 
 

@@ -51,7 +51,7 @@ Quite simply the star has its physics body disabled and its parent Game Object i
 ![part eight scene example](assets/part8.png)
 
 ## ➡️ Next steps:
-Open up `part9.html` and `part9.md` side by side to start coding
+Open up [part9.html](/part9.html) and [part9.md](part9.md) side by side to start coding
 
 
 

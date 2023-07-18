@@ -36,7 +36,7 @@ So 10 points are added for every star and the `scoreText` is updated to show thi
 
 In the final part we'll add some enemies.
 ## ➡️ Next steps:
-Open up `part10.html` and `part10.md` side by side to start coding
+Open up [part10.html](/part10.html) and [part10.md](part10.md) side by side to start coding
 
 
 

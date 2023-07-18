@@ -35,4 +35,4 @@ var game = new Phaser.Game(config);
 The `scene` property will be covered in more detail further in this tutorial
 
 ## ➡️ Next steps:
-Open up `part2.html` and `part2.md` side by side to start coding
+Open up [part2.html](/part2.html) and [part2.md](part2.md) side by side to start coding

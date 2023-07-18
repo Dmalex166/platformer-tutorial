@@ -61,7 +61,7 @@ The player will fall to the ground automatically because of gravity. With the co
 
  
 ## ➡️ Next steps:
-Open up `part8.html` and `part8.md` side by side to start coding
+Open up [part8.html](/part8.html) and [part8.md](part8.md)` side by side to start coding
 
 
 
