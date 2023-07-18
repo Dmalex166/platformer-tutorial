@@ -54,7 +54,7 @@ If you look back at the `preload` function, you'll see a `dude` was loaded as a 
 - it's a sprite sheet since it contains animation frames
 This is what the full sprite sheet looks like:
 
-![sprite sheet examples](assets/dude.png)
+![sprite sheet examples](../assets/dude.png)
 
 There are 9 frames in total
 - 4 for running left

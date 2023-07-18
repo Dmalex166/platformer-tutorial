@@ -28,7 +28,7 @@ platforms.create(750, 220, 'ground');
 ```
 During our preload we imported a 'ground' image. It's a simple green rectangle, 400 x 32 pixels in size and will serve for our basic plaform needs:
 
-![part 4 ground image example](assets/platform.png)
+![part 4 ground image example](../assets/platform.png)
 
 The first line of code above adds a new ground image at 400 x 568 (remember, images are positioned based on their center) 
 -  problem is that we need this platform to span the full width of our game, otherwise the player will just drop off the side

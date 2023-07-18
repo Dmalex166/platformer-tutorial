@@ -15,7 +15,7 @@ For example:
     - This is an arbitrary value, but logically, the higher the value, the heavier your object feels and the quicker it falls. 
     - if you run part 5, you'll see the player fall through the ground without stopping
 
-![part six scene example](assets/part6.png)
+![part six scene example](../assets/part6.png)
 
 This is because we're not testinf for collison between the ground and the player
 
@@ -31,7 +31,7 @@ this.physics.add.collider(player, platforms);
 
  It takes two objects and tests for collision and performs separation against them. In this case we're giving it the player sprite and the platforms Group. It's clever enough to run collision against all Group members, so this one call will collide against the ground and all platforms. The result is a firm platform that doesn't collapse:
 
- ![part six scene example](assets/part6.2.png)
+ ![part six scene example](../assets/part6.2.png)
  
 ## ➡️ Next steps:
 Open up [part7.html](/part7.html) and [part7.md](part7.md) side by side to start coding
