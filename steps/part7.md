@@ -56,7 +56,7 @@ The player will fall to the ground automatically because of gravity. With the co
 
 ❗️Hint: Try tweaking the 330 value lower and higher to see it's effect
 
-![part seven scene example](assets/part7.png)
+![part seven scene example](../assets/part7.png)
 
 
  

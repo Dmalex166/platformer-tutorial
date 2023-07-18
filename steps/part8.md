@@ -48,7 +48,7 @@ function collectStar (player, star)
 
 Quite simply the star has its physics body disabled and its parent Game Object is made inactive and invisible, which removes it from display. Running the game now gives us a player that can dash about, jump, bounce off the platforms and collecting the stars that fall from above.
 
-![part eight scene example](assets/part8.png)
+![part eight scene example](../assets/part8.png)
 
 ## ➡️ Next steps:
 Open up [part9.html](/part9.html) and [part9.md](part9.md) side by side to start coding

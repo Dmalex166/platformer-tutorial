@@ -32,7 +32,7 @@ function collectStar (player, star)
 So 10 points are added for every star and the `scoreText` is updated to show this new total.
 
 
-![part nine scene example](assets/part9.png)
+![part nine scene example](../assets/part9.png)
 
 In the final part we'll add some enemies.
 ## ➡️ Next steps:
