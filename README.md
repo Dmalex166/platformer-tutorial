@@ -1,5 +1,7 @@
 # 👾 Welcome to Phaser!
 
+To open this file properly press shift + command + V! (or right click on the file named "README.md" in your top navigation and click on "Preview mMode")
+
  In this tutorial you will learn to build your first game!
  
  The will consist of:
