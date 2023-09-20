@@ -14,7 +14,7 @@ On line 17 you should see `var config={..};'
 ```js
  type: Phaser.AUTO,
 ```
-- in this tutoial we're just going to set the renderer dimensions and the default scene using the `width` and `height` properties set to 800 x 600 pixels
+- in this tutorial we're just going to set the renderer dimensions and the default scene using the `width` and `height` properties set to 800 x 600 pixels
 
 ```js
 width: 800,

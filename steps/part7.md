@@ -31,7 +31,7 @@ if (cursors.up.isDown && player.body.touching.down)
     player.setVelocityY(-330);
 }
 ```
-We've just added a lot of code, but it should be very readable
+We've just added a lot of code, but it should be very readable.
 
 The first thing it does is check to see if the left key is being held down. 
 - If it is we apply a negative horizontal velocity and start the 'left' running animation. 
@@ -43,14 +43,14 @@ The player sprite will move only when a key is held down and stop immediately th
 - The final part of the key check sets the animation to 'turn' and zero the horizontal velocity if no key is held down.
 
 ### Jump to it
- Now we're going to add the ability to jump
+ Now we're going to add the ability to jump.
 
  First we test.....
- - if the up cursor (our jump button) is down/clicked
- - if our player in on the ground (otherwise our player could jump mid-air)
+ - If the up cursor (our jump button) is down/clicked
+ - If our player in on the ground (otherwise our player could jump mid-air)
 
  If both of these condition are met.....
- - we map apply a vertical velocity of 330px/sec sq
+ - We map apply a vertical velocity of 330px/sec
 
 The player will fall to the ground automatically because of gravity. With the controls in place we now have a game world we can explore. Load up part7.html and have a play.
 

@@ -1,6 +1,6 @@
 # Part 10: Bouncsing Bombs
 
-In order to round our game out it's time to add some enemies
+In order to round our game out it's time to add some enemies.
 
 ### The idea is...
 
@@ -67,7 +67,7 @@ The end result is a nice little bomb sprite that rebounds around the screen. Sma
 
 You have now learned how to create a sprite with physics properties, to control its motion and to make it interact with other objects in a small game world. There are lots more things you can do to enhance this. 
 - Why not expand the size of the level and allow the camera to scroll? 
-- Maybe add in different enemie types, different value pick-ups, or give the player a health bar?
+- Maybe add in different enemy types, different value pick-ups, or give the player a health bar?
 
 Or for a non-violent style game you could make it a speed-run and simply challenge them to collect the stars as quickly as possible.
 

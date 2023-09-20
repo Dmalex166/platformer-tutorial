@@ -38,8 +38,16 @@ To stop this we'll need to check their collisions against the platforms
 ```js
 this.physics.add.collider(stars, platforms);
 ```
+
+<strong>NOTE TO HANDY: ADD IN SECTION ADDING THIS LINE AND DESCRIBE WHAT THE NULL AND THIS PARAMETERS MEAN!</strong>
+
+<strong>this.physics.add.overlap(player,stars,collectStar,null, this);</strong>
+
 We will also check the overlap between the player and any star in the stars group. If found they are passed to the `collectStar` function:
+
 ```js
+
+
 function collectStar (player, star)
 {
     star.disableBody(true, true);

@@ -30,7 +30,7 @@ function create ()
 ```
 
 You'll see `this.physics` , this means we're using the Arcade Physics System
-For take effect ww will need to add it to our game config (tell the Phaser game we require it)
+For take effect we will need to add it to our game config (tell the Phaser game we require it)
 ```js
 var config = {
     type: Phaser.AUTO,

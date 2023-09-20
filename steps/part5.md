@@ -1,8 +1,8 @@
 # Part 5: Ready Player One
 
-No we have platforms!.....but no one to run on them
+No we have platforms!.....but no one to run on them.
 
-Create a new variable called `player` and add the following code to the `create` function. You can see this in `part5.html`
+Create a new variable called `player` and add the following code to the `create` function. You can see this in `part5.html`.
 
 ```js
 player = this.physics.add.sprite(100, 450, 'dude');
@@ -34,7 +34,7 @@ this.anims.create({
 There are two separate things going on here: the creation of a Physics Sprite and the creation of some animations that it can use.
 
 ### Physics Sprite
-This is the first part of the code to create a sprite
+This is the first part of the code to create a sprite:
 ```js
 player = this.physics.add.sprite(100, 450, 'dude');
 
@@ -50,18 +50,18 @@ The sprite is then set to collide with the world bounds.
 - The bounds, by default, are on the outside of the game dimensions. As we set the game to be 800 x 600 then the player won't be able to run outside of this area. It will stop the player from being able to run off the edges of the screen or jump through the top.
 
 ### Animations
-If you look back at the `preload` function, you'll see a `dude` was loaded as a sprite sheet, NOT AN IMAGE
+If you look back at the `preload` function, you'll see a `dude` was loaded as a sprite sheet, NOT AN IMAGE!
 - it's a sprite sheet since it contains animation frames
 This is what the full sprite sheet looks like:
 
 ![sprite sheet examples](../assets/dude.png)
 
-There are 9 frames in total
+There are 9 frames in total:
 - 4 for running left
 - 1 for facing the camera
 - 4 for running right
 
-Next we'll define two animations called `left` and `right`
+Next we'll define two animations called `left` and `right`:
 ```js
 this.anims.create({
     key: 'left',

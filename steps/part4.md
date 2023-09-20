@@ -1,11 +1,11 @@
 # Part 4: The Platforms
 
-So we just added a bunch of code to our `create` function and it deserves more explanation
+So we just added a bunch of code to our `create` function and it deserves more explanation:
 
 ```js
 platforms = this.physics.add.staticGroup();
 ```
-This creates a new Static Physics group and assigns it to the local variable `platforms`
+This creates a new Static Physics group and assigns it to the local variable `platforms`.
 
 There are two types of physics bodies:
 - Dynamic: oone that can move around via forces such as velocity or acceleration. It can bounce and collide with other objects and that collision is influenced by the mass of the body and other elements.
@@ -30,8 +30,8 @@ During our preload we imported a 'ground' image. It's a simple green rectangle, 
 
 ![part 4 ground image example](../assets/platform.png)
 
-The first line of code above adds a new ground image at 400 x 568 (remember, images are positioned based on their center) 
--  problem is that we need this platform to span the full width of our game, otherwise the player will just drop off the side
+The first line of code above adds a new ground image at 400 x 568 (remember, images are positioned based on their center). 
+-  Problem is that we need this platform to span the full width of our game, otherwise the player will just drop off the side
 
 To do that we scale it x2 with the function `setScale(2)`. It's now 800 x 64 in size, which is perfect for our needs. The call to `refreshBody()` is required because we have scaled a static physics body, so we have to tell the physics world about the changes we made.
 
@@ -43,7 +43,7 @@ platforms.create(50, 250, 'ground');
 platforms.create(750, 220, 'ground');
 ```
 
-We don't need to scale these platforms as they are the right size already
+We don't need to scale these platforms as they are the right size already.
 
 3 platforms are placed around the screen, the right distances apart to allow the player to leap up to them.
 
